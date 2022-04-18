@@ -55,7 +55,7 @@ discord:
   syncedChannelRoleID: "DEFAULTROLE" # Discord role id of the role that have access to integrated Discord and request voting channel 
   commandPrefix: "!" # Prefix that has to be used before bot commands
   serverName: "SERVERNAME" # Server identificator, used on commands and before messages
-  statusChannelID: "STATUSCHANNELID" # Discord channel id where status message is send
+  statusChannelID: "STATUSCHANNELID" # Discord channel id where status message is sent
   statusMessageID: "STATUSMESSAGEID" # Discord message id where status is updated
 
 integration:
