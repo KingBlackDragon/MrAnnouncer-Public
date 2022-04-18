@@ -13,7 +13,6 @@ Minecraft Bukkit/Spigot plugin which integrates Minecraft with Discord and vice 
 * Different types of messages can be turned off by using commands or by editing the config file 
 * Minecraft users can be authenticated using Discord 
 * Existing users vote if new user should be let in to the server on the Discord
-![](https://raw.githubusercontent.com/MrKyzer/MrAnnouncer/Main/Vote%20Example.PNG)
 
 
 ### Also following can set to be sent to the Discord channel:
